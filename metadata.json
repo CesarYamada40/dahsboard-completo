@@ -1,0 +1,5 @@
+{
+  "name": "AI Governance & Bot Analysis Dashboard",
+  "description": "An advanced dashboard for analyzing, monitoring, and governing an AI-assisted Bybit trading bot. It provides tools for code analysis, log monitoring, historical change tracking, and strategy compliance to prevent AI agent rework and ensure operational integrity.",
+  "requestFramePermissions": []
+}
